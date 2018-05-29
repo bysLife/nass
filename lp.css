@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+#salesletter {
+  margin: 15px auto 15px auto;
+  padding: 5px 25px 5px 25px;
+  width: 700px;
+  background-color: white;
+  border-radius:10px;
+  box-shadow: 0px 0px 10px 5px #888888;
+}
+#body {
+  padding-left: 40px;
+  padding-right: 40px;
+  font-family: 'Arial
+  ', serif;
+  font-size: 20px;
+}
+#footer {
+  text-align: right;
+  font-weight: lighter;
+  font-style: normal;
+  font-family: 'Arial
+  ', serif;
+  font-size: 8px;
+  color: silver;
+  text-decoration: none;
+}
+#prehead {
+  font-family: 'Arial', sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: left;
+  color: black;
+}
+#headline {
+  font-family: 'Arial', sans-serif;
+  color: black;
+  font-size: 45px;
+  font-weight: bolder;
+  text-align: center;
+}
+#subhead {
+  font-family: 'Arial', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+#testimonialbox {
+  width: 500px;
+  margin: 30px auto 30px auto;
+  padding: 0px 10px 0px 10px;
+  background-color: #FFFF99;
+  border: 2px solid black;
+  border-radius:10px;
+  box-shadow: 0px 0px 15px 0px #A2A261 inset;
+  font-family: 'Arial
+  ', serif;
+  font-size: 14px;
+  text-align: left;
+}
+#footertext {
+  text-decoration: none;
+  color: silver;
+}
+#nav {
+  margin-top: 40px;
+  text-align: center;
+}
+#revelationmagic {
+  visibility: hidden; 
+  height: 0px;
+}
+#salesvideo {
+  margin-left: auto;
+  margin-right: auto;
+}
+#testimonialbox h1 {
+  font-family: 'Satisfy', cursive;
+  text-align: left;
+  color: black;
+  font-size: 25px;
+}
+h1 {
+font-family: 'Arial', sans-serif;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bolder;
+  color: black;
+}
+h2 {
+font-family: 'Arial', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+font-family: 'Arial', sans-serif;
+  font-size: 18px;
+  text-align: left;
+  font-weight: bold;
+  color: black;
+}
+
+p {
+	font-family: 'Arial', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  color: black;
+}
